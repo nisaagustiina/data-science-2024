@@ -6,6 +6,7 @@ ipykernel
 scipy
 seaborn
 scikit-learn
+mlxtend
 
 #setup venv
 #python3 -m venv .venv
