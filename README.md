@@ -33,7 +33,7 @@ Repository ini berisi kumpulan notebook dari Pertemuan 1 hingga 7 mata kuliah Da
 | Pertemuan 10 | Algoritma Klasifikasi (Bagian 2) | [Pertemuan10_NisaAgustina_240401070509.ipynb](Pertemuan10_NisaAgustina_240401070509.ipynb) |
 | Pertemuan 11 | Unsupervised Learning (Clustering) | [Pertemuan11_NisaAgustina_240401070509.ipynb](Pertemuan11_NisaAgustina_240401070509.ipynb) |
 | Pertemuan 12 | Asosiasi Data & Sistem Rekomendasi Dasar | [Pertemuan12_NisaAgustina_240401070509.ipynb](Pertemuan12_NisaAgustina_240401070509.ipynb) |
-| Pertemuan 13 | Pengantar Deep Learning & NLP Dasar | [Pertemuan13_NisaAgustina_240401070509.ipynb](Pertemuan13_NisaAgustina_240401070509_.ipynb) |
+| Pertemuan 13 | Pengantar Deep Learning & NLP Dasar | [Pertemuan13_NisaAgustina_240401070509.ipynb](Pertemuan13_NisaAgustina_240401070509.ipynb) |
 
 ---
 
@@ -56,6 +56,7 @@ Repository ini berisi kumpulan notebook dari Pertemuan 1 hingga 7 mata kuliah Da
 git clone https://github.com/nisaagustiina/data-science-2026.git
 cd data-science-2026
 pip install pandas numpy matplotlib seaborn scipy scikit-learn requests
+atau bisa juga install melalui requirements.txt
 jupyter notebook
 ```
 
@@ -80,7 +81,7 @@ Perjalanan Data Science saya dimulai dari dasar Python hingga mampu membangun mo
 |------|-----------|---------------|
 | **Fondasi** | 1–3 | Menguasai Python, Pandas, NumPy, dan data cleaning (termasuk konsumsi API) |
 | **Analisis** | 4–5 | Statistik deskriptif & visualisasi sebagai alat komunikasi insight |
-| **Preprocessing** | 6 | Encoding, imputasi, scaling—langkah wajib sebelum modeling |
+| **Preprocessing** | 6 | Encoding, imputasi, scaling, langkah wajib sebelum modeling |
 | **Modeling** | 7 | Regresi Linear pertama: dari data ke prediksi |
 | **Klasifikasi** | 9–10 | Logistic Regression & Random Forest; belajar bahwa akurasi tidak cukup, Recall & F1 penting di kasus medis & churn |
 | **Clustering** | 11 | K-Means & Hierarchical; segmentasi pelanggan dengan silhouette score |
