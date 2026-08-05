@@ -23,17 +23,17 @@ Repository ini berisi kumpulan notebook dari Pertemuan 1 hingga 7 mata kuliah Da
 | Pertemuan | Topik | Link Notebook |
 |---|---|---|
 | Pertemuan 1 | Pengantar Python untuk Data Science | [Pertemuan1_NisaAgustina_240401070509.ipynb](Pertemuan1_NisaAgustina_240401070509.ipynb) |
-| Pertemuan 2 | Struktur Data Python, NumPy & Pandas | [Pertemuan2_NisaAgustina_240401070509_.ipynb](Pertemuan2_NisaAgustina_240401070509_.ipynb) |
-| Pertemuan 3 | Data Cleaning & Konsumsi API | [Pertemuan3_NisaAgustina_240401070509_.ipynb](Pertemuan3_NisaAgustina_240401070509_.ipynb) |
-| Pertemuan 4 | Eksplorasi Statistik Dataset Iris | [Pertemuan4_NisaAgustina_240401070509_.ipynb](Pertemuan4_NisaAgustina_240401070509_.ipynb) |
+| Pertemuan 2 | Struktur Data Python, NumPy & Pandas | [Pertemuan2_NisaAgustina_240401070509.ipynb](Pertemuan2_NisaAgustina_240401070509.ipynb) |
+| Pertemuan 3 | Data Cleaning & Konsumsi API | [Pertemuan3_NisaAgustina_240401070509.ipynb](Pertemuan3_NisaAgustina_240401070509.ipynb) |
+| Pertemuan 4 | Eksplorasi Statistik Dataset Iris | [Pertemuan4_NisaAgustina_240401070509.ipynb](Pertemuan4_NisaAgustina_240401070509.ipynb) |
 | Pertemuan 5 | Visualisasi Data | [Pertemuan5_NisaAgustina_240401070509.ipynb](Pertemuan5_NisaAgustina_240401070509.ipynb) |
-| Pertemuan 6 | Preprocessing Dataset Titanic | [Pertemuan6_NisaAgustina_240401070509_.ipynb](Pertemuan6_NisaAgustina_240401070509_.ipynb) |
-| Pertemuan 7 | Machine Learning: Regresi Linear | [Pertemuan7_NisaAgustina_240401070509_.ipynb](Pertemuan7_NisaAgustina_240401070509_.ipynb) |
-| Pertemuan 9 | Algoritma Klasifikasi (Bagian 1) | [Pertemuan9_NisaAgustina_240401070509_.ipynb](Pertemuan9_NisaAgustina_240401070509_.ipynb) |
-| Pertemuan 10 | Algoritma Klasifikasi (Bagian 2) | [Pertemuan10_NisaAgustina_240401070509_.ipynb](Pertemuan10_NisaAgustina_240401070509_.ipynb) |
-| Pertemuan 11 | Unsupervised Learning (Clustering) | [Pertemuan11_NisaAgustina_240401070509_.ipynb](Pertemuan11_NisaAgustina_240401070509_.ipynb) |
-| Pertemuan 12 | Asosiasi Data & Sistem Rekomendasi Dasar | [Pertemuan12_NisaAgustina_240401070509_.ipynb](Pertemuan12_NisaAgustina_240401070509_.ipynb) |
-| Pertemuan 13 | Pengantar Deep Learning & NLP Dasar | [Pertemuan13_NisaAgustina_240401070509_.ipynb](Pertemuan13_NisaAgustina_240401070509_.ipynb) |
+| Pertemuan 6 | Preprocessing Dataset Titanic | [Pertemuan6_NisaAgustina_240401070509.ipynb](Pertemuan6_NisaAgustina_240401070509.ipynb) |
+| Pertemuan 7 | Machine Learning: Regresi Linear | [Pertemuan7_NisaAgustina_240401070509.ipynb](Pertemuan7_NisaAgustina_240401070509.ipynb) |
+| Pertemuan 9 | Algoritma Klasifikasi (Bagian 1) | [Pertemuan9_NisaAgustina_240401070509.ipynb](Pertemuan9_NisaAgustina_240401070509.ipynb) |
+| Pertemuan 10 | Algoritma Klasifikasi (Bagian 2) | [Pertemuan10_NisaAgustina_240401070509.ipynb](Pertemuan10_NisaAgustina_240401070509.ipynb) |
+| Pertemuan 11 | Unsupervised Learning (Clustering) | [Pertemuan11_NisaAgustina_240401070509.ipynb](Pertemuan11_NisaAgustina_240401070509.ipynb) |
+| Pertemuan 12 | Asosiasi Data & Sistem Rekomendasi Dasar | [Pertemuan12_NisaAgustina_240401070509.ipynb](Pertemuan12_NisaAgustina_240401070509.ipynb) |
+| Pertemuan 13 | Pengantar Deep Learning & NLP Dasar | [Pertemuan13_NisaAgustina_240401070509.ipynb](Pertemuan13_NisaAgustina_240401070509_.ipynb) |
 
 ---
 
